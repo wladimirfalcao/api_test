@@ -1,0 +1,27 @@
+_id: req_fae48196ba724a27b4b86bfc046916e7
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1662054688323
+created: 1662040064378
+url: https://apinova-dev.gteducacao.com.br/api/transportes/relatorios/veiculos
+name: Transporte - Motoristas
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYyMDUxNDY5LCJleHAiOjE2NjIwNTUwNjksIm5iZiI6MTY2MjA1MTQ2OSwianRpIjoiQ0l2TGRzdU9udjBmQzR3cSIsInN1YiI6MTIzMywicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.OeOdWzX8VPV97LVfKSjatXakIJGgaT9nCwmF30bGUgc
+metaSortKey: -1655386133266
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

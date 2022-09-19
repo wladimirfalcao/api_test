@@ -1,0 +1,27 @@
+_id: req_78134baf6473490585895e9eb60a83d9
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1662727429638
+created: 1662725522006
+url: https://apinova-dev.gteducacao.com.br/api/escola/relatorios/bens-patrimoniaispor-escola/escola/82
+name: Bens Patrimoniais por Escola
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYyNzI0NzkxLCJleHAiOjE2NjI3MjgzOTEsIm5iZiI6MTY2MjcyNDc5MSwianRpIjoiWWR0dUxDSmI4blI3TFlrcCIsInN1YiI6MTIyOCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.kjf03vCndVVxrkJ8QWBSgOWyTSVB0-hBMzlIAt-KxHc
+metaSortKey: -1655083577140
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,27 @@
+_id: req_22bba484ed04462db6aff7dfe214e0e5
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1663163538440
+created: 1663157309739
+url: https://apinova-dev.gteducacao.com.br/api/professor/relatorios/plano-fundamental/1575
+name: Plano de aula
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYzMTYzNDU2LCJleHAiOjE2NjMxNjcwNTYsIm5iZiI6MTY2MzE2MzQ1NiwianRpIjoiUUJKVktUQTdTVllXazRKYyIsInN1YiI6MTIyOCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.XXgDYzOjBKxouWzFf9cMuOLo-W3OJ_lalAEMkFYlUIc
+metaSortKey: -1654932299077
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

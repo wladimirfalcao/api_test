@@ -1,0 +1,27 @@
+_id: req_60e861eb89e34c65874341b82d6c3c2e
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1656078081857
+created: 1655991245518
+url: https://api-dev.gteducacao.com.br/api/professor/relatorios/avaliacao_infatil_individual/20
+name: Avaliação Individual Infantil - Parecer
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLXJlc3QtaG9tb2wuZ3RlZHVjYWNhby5jb20uYnJcL2FwaVwvbG9naW4iLCJpYXQiOjE2NTYwNzY1ODEsImV4cCI6MTY1NjA4MDE4MSwibmJmIjoxNjU2MDc2NTgxLCJqdGkiOiIyN3BSY1VYTDJwN2NmSkowIiwic3ViIjoxMjI3LCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.N0yazk9G8tsLWkboFRZ-26Xgg4PF6UVcd4wTZKGpe8s
+metaSortKey: -1655991245518
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

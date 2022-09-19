@@ -1,0 +1,44 @@
+_id: req_2c2c11bdd0f944f5809c4631354f0c65
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1660595711287
+created: 1660323709404
+url: " https://apinova-dev.gteducacao.com.br/api/relatorios/logs"
+name: Logs
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"cpf" : "",
+    	"data_inicio" : "2022-01-30 00:08",
+    	"data_fim" : "2022-02-2 23:59",
+    	"movimento" : "matriculas",
+    	"acao" : "create"
+    }
+parameters: []
+headers:
+  - id: pair_701902db9c90441c8c9fe5a6c353eead
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+    disabled: true
+  - name: Content-Type
+    value: application/json
+    id: pair_163fa1c6ef7c47bf8659b64b947f7a27
+  - id: pair_dc4d9cd095b2436bbdde5f3ffe434e5c
+    name: Chave
+    value: 393bb38ce5902964e745edc40705c37e
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLXJlc3QtZ2VyYWwuZ3RlZHVjYWNhby5jb20uYnJcL2FwaVwvbG9naW4iLCJpYXQiOjE2NjAzMjM4MTEsImV4cCI6MTY2MDM1OTgxMSwibmJmIjoxNjYwMzIzODExLCJqdGkiOiJDczI4Z1dDNFY0OGRoOU5XIiwic3ViIjoxMjMzLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.BYdoKltMOOoPOVVavdlHPHycZbBE318lrosuSR6WDOQ
+metaSortKey: -1655991245580.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

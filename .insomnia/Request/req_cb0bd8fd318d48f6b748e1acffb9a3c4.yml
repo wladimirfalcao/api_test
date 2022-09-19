@@ -1,0 +1,27 @@
+_id: req_cb0bd8fd318d48f6b748e1acffb9a3c4
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1661868294059
+created: 1656011264407
+url: https://apinova-dev.gteducacao.com.br/api/pedagogico/relatorios/alunosnaomatriculados
+name: Todos os Alunos não matriculados
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_701902db9c90441c8c9fe5a6c353eead
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYxODY2NDcxLCJleHAiOjE2NjE4NzAwNzEsIm5iZiI6MTY2MTg2NjQ3MSwianRpIjoiNTZrMXZBRnZtV2FsMEppMiIsInN1YiI6MTIyOCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9._eFFveXLACXoRAfFDnmEcdBSs3xEdq1Ifyf418VM6nM
+metaSortKey: -1655991245568
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

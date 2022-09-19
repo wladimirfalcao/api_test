@@ -1,0 +1,27 @@
+_id: req_7c30e6e68cef4c9599c314d547a2a73e
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1663609027427
+created: 1663608997953
+url: https://apinova-dev.gteducacao.com.br/api/controles/reslatorios/contratos/idmodalidade/1
+name: Contratos por modalidade
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYzMzMwNzYxLCJleHAiOjE2NjMzMzQzNjEsIm5iZiI6MTY2MzMzMDc2MSwianRpIjoiamsweUl0QUI4T1M2RURxSCIsInN1YiI6MTIzMywicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.mji53956PMI_gksLIzjst25wKDa-ofLBcAKhIPaGi00
+metaSortKey: -1654818840529.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
