@@ -1,0 +1,27 @@
+_id: req_d0a832dd9a2a41ab828a248c15cbe96f
+type: Request
+parentId: fld_dc0425fece934e87bacee7a315a4e021
+modified: 1674667455747
+created: 1674667380864
+url: https://apinova-dev.gteducacao.com.br/api/pessoal/pessoas/3187
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_6e4803c3aa2b4d2abbde99f3e894add4
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc0NjY2NTg1LCJleHAiOjE2NzQ2NzAxODUsIm5iZiI6MTY3NDY2NjU4NSwianRpIjoiRWF6b1JWVTk5cGhDa0VEdSIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.DfQUzzdM3wE7HHwl-T56I4cGLKfgcKtFVqlsErlu2LM
+metaSortKey: -1674667380864
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

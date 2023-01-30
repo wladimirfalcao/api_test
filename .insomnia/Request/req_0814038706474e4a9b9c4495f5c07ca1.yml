@@ -1,0 +1,27 @@
+_id: req_0814038706474e4a9b9c4495f5c07ca1
+type: Request
+parentId: fld_ebfd9704340246efada1388ec3683be9
+modified: 1675102474038
+created: 1675102415986
+url: https://apinova-dev.gteducacao.com.br/api/pedagogico/tipos-atividades-desenvolvidas
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_9fafd63f2bf24c68b1c20b333da6b513
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc1MTAxNjM4LCJleHAiOjE2NzUxMDUyMzgsIm5iZiI6MTY3NTEwMTYzOCwianRpIjoib2JjU0QycVJGRDlIQWNTcyIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.FXWNl8AwBchn0RGC-iYWLNMEoJvrHiIj525r9a0mfHU
+metaSortKey: -1675102415986
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

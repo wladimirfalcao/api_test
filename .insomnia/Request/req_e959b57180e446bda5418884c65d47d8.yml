@@ -1,0 +1,34 @@
+_id: req_e959b57180e446bda5418884c65d47d8
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1670504123084
+created: 1666183074302
+url: ""
+name: Plano Fundamental
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+    disabled: false
+  - id: pair_1a79f2bfcb864d01b8f600b29497be14
+    name: Chave
+    value: 393bb38ce5902964e745edc40705c37e
+    description: ""
+    disabled: true
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjY2MTgyODk3LCJleHAiOjE2NjYxODY0OTcsIm5iZiI6MTY2NjE4Mjg5NywianRpIjoiWjF6MUxCcm1aS2tGZVNtMCIsInN1YiI6MTIyNywicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.n0YXDmUj00oMGoSZUuWK2eHtbWBseseET3OoBOwLK4Q
+  disabled: false
+metaSortKey: -1654818840429.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

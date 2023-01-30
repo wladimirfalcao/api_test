@@ -1,0 +1,34 @@
+_id: req_94dfccd1c00542a68ce1c9bb460e3f79
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1673535133850
+created: 1672769809603
+url: https://apinova-dev.gteducacao.com.br/api/pedagogico/relatorios/comprovante_matricula/10124
+name: Comprovante de Matricula
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_700df3155c2643eaa1d2e2fa96b19743
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+    disabled: false
+  - id: pair_1a79f2bfcb864d01b8f600b29497be14
+    name: Chave
+    value: 393bb38ce5902964e745edc40705c37e
+    description: ""
+    disabled: true
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjczNTM1MTE0LCJleHAiOjE2NzM1Mzg3MTQsIm5iZiI6MTY3MzUzNTExNCwianRpIjoiZVp6bU9kMjFKckgyYnBwZSIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.bX6SWebMLskenF3jjBlXjgUg49csHG5EtUU4Zp6u6PQ
+  disabled: false
+metaSortKey: -1654818840329.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
