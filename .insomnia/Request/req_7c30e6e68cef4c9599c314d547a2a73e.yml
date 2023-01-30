@@ -1,9 +1,9 @@
 _id: req_7c30e6e68cef4c9599c314d547a2a73e
 type: Request
 parentId: fld_edeb6ead753749e399d2070082ebc8ae
-modified: 1663609027427
+modified: 1663619651658
 created: 1663608997953
-url: https://apinova-dev.gteducacao.com.br/api/controles/reslatorios/contratos/idmodalidade/1
+url: https://apinova-dev.gteducacao.com.br/api/controles/relatorios/contratos/idmodalidade/6
 name: Contratos por modalidade
 description: ""
 method: GET
@@ -16,7 +16,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYzMzMwNzYxLCJleHAiOjE2NjMzMzQzNjEsIm5iZiI6MTY2MzMzMDc2MSwianRpIjoiamsweUl0QUI4T1M2RURxSCIsInN1YiI6MTIzMywicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.mji53956PMI_gksLIzjst25wKDa-ofLBcAKhIPaGi00
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjYzNjE5MjI5LCJleHAiOjE2NjM2MjI4MjksIm5iZiI6MTY2MzYxOTIyOSwianRpIjoiY1htQW5XZHl1ejhycGp2cCIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.JuJ5fLzi1ohPDGL85ulumHNiEiMzxZUYFOcSqh9hqDE
 metaSortKey: -1654818840529.75
 isPrivate: false
 settingStoreCookies: true
