@@ -1,0 +1,27 @@
+_id: req_8071e61dad5b49a08077de91ce86e308
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1677521507106
+created: 1677518899402
+url: https://apinova-dev.gteducacao.com.br/api/secretario/relatorios/alunos_especiais
+name: ALUNOS ESPECIAIS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_4cb7d1c26190497caac2b5fbbf460006
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc3NTIwNzE1LCJleHAiOjE2Nzc1MjQzMTUsIm5iZiI6MTY3NzUyMDcxNSwianRpIjoiU01pVjNtWWE2TUwxdkFORyIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.EYlxeBbpn2Fyx8IAyS1SkuTWXCTlT-2MS9EaPJ-VVyI
+metaSortKey: -1654818840179.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

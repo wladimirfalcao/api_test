@@ -1,0 +1,27 @@
+_id: req_bd460ca512284f708140d838ebb5a735
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1677521528762
+created: 1677521492357
+url: https://apinova-dev.gteducacao.com.br/api/secretario/relatorios/alunos_series/etapa/-1/serie/-1
+name: ALUNOS POR SÉRIE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_4cb7d1c26190497caac2b5fbbf460006
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc3NTIwNzE1LCJleHAiOjE2Nzc1MjQzMTUsIm5iZiI6MTY3NzUyMDcxNSwianRpIjoiU01pVjNtWWE2TUwxdkFORyIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.EYlxeBbpn2Fyx8IAyS1SkuTWXCTlT-2MS9EaPJ-VVyI
+metaSortKey: -1654818840129.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,27 @@
+_id: req_02d3b9dd9ec74ac9ba7632eb752b2951
+type: Request
+parentId: fld_edeb6ead753749e399d2070082ebc8ae
+modified: 1677526150957
+created: 1677526138620
+url: " https://apinova-dev.gteducacao.com.br/api/relatorios/lista_piloto/turma/920"
+name: LISTA PILOTO
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_4cb7d1c26190497caac2b5fbbf460006
+    name: Chave
+    value: 5e8edd851d2fdfbd7415232c67367cc3
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc3NTI1ODIzLCJleHAiOjE2Nzc1Mjk0MjMsIm5iZiI6MTY3NzUyNTgyMywianRpIjoiM0xta05LRUpYQUJzdllaYyIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.5RaU2ZnmND8TcuRrrlAROghoQcuh9ed6qsYSFKng118
+metaSortKey: -1654818839979.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
