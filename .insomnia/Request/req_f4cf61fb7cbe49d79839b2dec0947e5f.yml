@@ -1,10 +1,10 @@
 _id: req_f4cf61fb7cbe49d79839b2dec0947e5f
 type: Request
 parentId: fld_edeb6ead753749e399d2070082ebc8ae
-modified: 1675101664387
+modified: 1677177437506
 created: 1674760268298
-url: https://apinova-dev.gteducacao.com.br/api/professor/relatorios/plano-infantil/209
-name: Plano Infantil
+url: https://apinova-dev.gteducacao.com.br/api/professor/relatorios/plano-infantil/61
+name: PLANEJAMENTO DIÁRIO DO ENSINO FUNDAMENTAL
 description: ""
 method: GET
 body: {}
@@ -22,7 +22,7 @@ headers:
     disabled: true
 authentication:
   type: bearer
-  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc1MTAxNjM4LCJleHAiOjE2NzUxMDUyMzgsIm5iZiI6MTY3NTEwMTYzOCwianRpIjoib2JjU0QycVJGRDlIQWNTcyIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.FXWNl8AwBchn0RGC-iYWLNMEoJvrHiIj525r9a0mfHU
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc3MTc2MDE0LCJleHAiOjE2NzcxNzk2MTQsIm5iZiI6MTY3NzE3NjAxNCwianRpIjoiUUtmODhJNlNLcElNVEJOWiIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.FNoRasiP4rhIIsjbejKG9pj9JWJDNxIDzqeit1McFdY
   disabled: false
 metaSortKey: -1654818840229.75
 isPrivate: false

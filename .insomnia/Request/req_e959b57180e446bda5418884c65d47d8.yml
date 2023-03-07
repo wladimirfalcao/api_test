@@ -1,9 +1,9 @@
 _id: req_e959b57180e446bda5418884c65d47d8
 type: Request
 parentId: fld_edeb6ead753749e399d2070082ebc8ae
-modified: 1670504123084
+modified: 1677522876843
 created: 1666183074302
-url: ""
+url: https://apinova-dev.gteducacao.com.br/api/professor/relatorios/plano-fundamental/1576
 name: Plano Fundamental
 description: ""
 method: GET
@@ -22,7 +22,7 @@ headers:
     disabled: true
 authentication:
   type: bearer
-  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjY2MTgyODk3LCJleHAiOjE2NjYxODY0OTcsIm5iZiI6MTY2NjE4Mjg5NywianRpIjoiWjF6MUxCcm1aS2tGZVNtMCIsInN1YiI6MTIyNywicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.n0YXDmUj00oMGoSZUuWK2eHtbWBseseET3OoBOwLK4Q
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpZ2VyYWwtZGV2Lmd0ZWR1Y2FjYW8uY29tLmJyXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjc3NTIwNzE1LCJleHAiOjE2Nzc1MjQzMTUsIm5iZiI6MTY3NzUyMDcxNSwianRpIjoiU01pVjNtWWE2TUwxdkFORyIsInN1YiI6MzE5OCwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.EYlxeBbpn2Fyx8IAyS1SkuTWXCTlT-2MS9EaPJ-VVyI
   disabled: false
 metaSortKey: -1654818840429.75
 isPrivate: false
